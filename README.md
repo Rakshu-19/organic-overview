@@ -1,7 +1,5 @@
 # organic-overview
 
-#ORGANIC_OVERVIEW
-
 <b> For Your Health</b>
 
 ### Project summary
