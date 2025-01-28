@@ -8,13 +8,13 @@
 
 -Organic food finder. It is a mobile / web application that allows you to find organic foods of your choice at reasonable prices
 
-###Development Model
+### Development Model
 - Incremental Model
 
-  ###Duration
+  ### Duration
 - 6 months
 
-##Functionality
+## Functionality
 
 - Navigation: It will show you the locations of the stores within a specified radius along with the directions.
 - <b> Rakshana: Provides the Nutritional values and calorie intake of each food item</b>
