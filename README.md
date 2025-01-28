@@ -16,8 +16,8 @@
 
 ##Functionality
 
-- 	Navigation: It will show you the locations of the stores within a specified radius along with the directions.
-- Provides the Nutritional values and calorie intake of each food item
+- Navigation: It will show you the locations of the stores within a specified radius along with the directions.
+- <b> Rakshana: Provides the Nutritional values and calorie intake of each food item</b>
 - Personalized Meal and Diet Plans
 - Based on the mode of travel, if walking then it will also show you the number of calories you burn. 
 - For a subscription, Delivery is made available
