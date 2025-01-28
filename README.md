@@ -2,7 +2,7 @@
 
 #ORGANIC_OVERVIEW
 
-<b> for your Health</b>
+<b> For Your Health</b>
 
 ### Project summary
 
@@ -16,8 +16,8 @@
 
 ## Functionality
 
-- Navigation: It will show you the locations of the stores within a specified radius along with the directions.
+- <b> Rohit</b>Navigation: It will show you the locations of the stores within a specified radius along with the directions.
 - <b> Rakshana</b>: Provides the Nutritional values and calorie intake of each food item
-- Personalized Meal and Diet Plans
-- Based on the mode of travel, if walking then it will also show you the number of calories you burn. 
-- For a subscription, Delivery is made available
+- <b>jaya ram</b>Personalized Meal and Diet Plans
+- <b>Armili</b>Based on the mode of travel, if walking then it will also show you the number of calories you burn. 
+- <b>Manogna</b>For a subscription, Delivery is made available
